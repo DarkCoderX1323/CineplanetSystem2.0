@@ -1,4 +1,4 @@
-//HTML
+
 
 <!DOCTYPE html>
 <html lang="es">
@@ -15,7 +15,7 @@
             <div class="col-md-5 bg-primary text-white py-5 d-flex justify-content-center">
                 <div class="card p-4">
                     <p class="fs-5 text-center m-0">
-                        Transformamos días comunes en experiencias extraordinarias
+                        "Transformamos días comunes en experiencias extraordinarias"
                     </p>
                 </div>
             </div>
@@ -41,5 +41,3 @@
     </div>
 </body>
 </html>
-
-//PARTE CODIGO PHP//
